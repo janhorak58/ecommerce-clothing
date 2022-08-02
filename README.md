@@ -1,3 +1,7 @@
+# ZTM React course main project - Eccomerce website for clothing selling company.
+# Created with REACT.JS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
